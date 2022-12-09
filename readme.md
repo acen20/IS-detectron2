@@ -1,7 +1,6 @@
 ## Instance Segmentation
-Suitable for small objects, trains on additional anchor boxes for Instance segmentation
 
-## Dataset
+## Example dataset
 iMaterial Fashion FGVC7
 
 ## Backbone Network
