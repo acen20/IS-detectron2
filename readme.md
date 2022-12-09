@@ -1,5 +1,5 @@
 ## Example dataset
-<a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">iMaterial Fashion FGVC7</a>
+<a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">iMaterialist (Fashion) 2020 at FGVC7 </a>
 
 ## Backbone Network
 ResNet-50
