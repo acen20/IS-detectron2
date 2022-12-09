@@ -10,6 +10,7 @@ The primary objective was to detect and segment very small objects in the image.
 
 ## Example dataset
 <a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">iMaterialist (Fashion) 2020 at FGVC7 </a>
+
 Fine-grained segmentation task for fashion and apparel
 
 ## Backbone Network
