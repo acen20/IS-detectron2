@@ -1,5 +1,11 @@
+The following project was built on top of the <a href="https://ai.facebook.com/tools/detectron2/">FAIR's detectron2</a>
+The primary objective was to detect and segment very small objects in the image and to do that, we made some changes at the algorithm level and some at the data level.
+<b>At data level</b>, we added a utility to slice the training images into 3x3 grid. This helps us retain the small objects in the image. Moreover, we get an enhanced region of interest. 
+<b>At algorithm level</b>,
+
 ## Example dataset
 <a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">iMaterialist (Fashion) 2020 at FGVC7 </a>
+Fine-grained segmentation task for fashion and apparel
 
 ## Backbone Network
 ResNet-50
