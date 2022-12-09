@@ -1,7 +1,5 @@
-## Instance Segmentation
-
 ## Example dataset
-iMaterial Fashion FGVC7
+<a href="https://www.kaggle.com/c/imaterialist-fashion-2020-fgvc7">iMaterial Fashion FGVC7</a>
 
 ## Backbone Network
 ResNet-50
